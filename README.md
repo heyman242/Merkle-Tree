@@ -1,2 +1,2 @@
 # Merkle-Tree
-# implementation of basic merkle tree using javascript 
+# Implementation of Basic Merkle Tree using Javascript 
